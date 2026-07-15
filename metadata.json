@@ -1,0 +1,6 @@
+{
+  "name": "GrammarQuest: English Map",
+  "description": "An interactive English grammar learning map where students explore grammar continents and conquer exams (KET, PET, FCE, IELTS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
