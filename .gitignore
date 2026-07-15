@@ -27,3 +27,15 @@ logs/
 
 # TypeScript cache
 *.tsbuildinfo
+
+# Vite cache
+.vite/
+
+# Firebase config with sensitive keys
+firebase-applet-config.json
+
+# Temporary share packages
+.trae-html-share-packages/
+
+# Upload cache
+.uploads/
